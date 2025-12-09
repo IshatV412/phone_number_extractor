@@ -1,6 +1,6 @@
 *.csv
 *.json
 images/
-config.yaml/
+*.yaml
 ph_no/
 videos/

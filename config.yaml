@@ -1,8 +1,0 @@
-api_keys:
-  - "AIzaSyA_0_7BBEkesobeNS1a_zTJuZrkeD_AYOk"
-  # Add more API keys below for failover
-  # - "YOUR_SECOND_API_KEY"
-  # - "YOUR_THIRD_API_KEY"
-
-model: "gemini-2.5-flash"
-rate: 100
