@@ -1,7 +1,6 @@
-.csv
-.contacts.json
-contacts.json
-images
-config.yaml
-ph_no
-videos
+*.csv
+*.json
+images/
+config.yaml/
+ph_no/
+videos/
